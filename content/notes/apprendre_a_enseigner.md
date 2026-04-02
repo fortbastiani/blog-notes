@@ -105,6 +105,7 @@ Article à lire:
 
 ## Que faire ? Qu'est-ce qui est mis en place ? (en primaire notamment)
 
+### Méthode idéo-visuelle, phonique synthétique stricte ou mixte ?
 Large étude statistique sur la lecture ~140K élèves (entrée en 6ème)
 \+ étude quali dans les familles. Les deux ont été mis en relation dans 
 un travail de thèse. 
@@ -130,8 +131,27 @@ En 2025 nouveau programme (que M.Deauvieau considère comme bon). Retour à l'an
 méthode.
 
 
-Au sein des familles plus bourgeoises, on enseigne de manière synthétique stricte au sein de 
-la famille. S'il n'y a pas pratique il n'y a pas de différence. Tous les milieux culturellement homogènes ont des pratiques similaires.
+### *Miracle de noël* et *effet des vacances de février*
+Le *miracle de noël* et l'*effet des vacances de février* révèlent des différences de 
+pratiques d'enseignement à domicile au sein des différents milieux sociaux. 
+
+L'incapacité à déchiffrer le langage écrit (*déchiffrer le paquet de céréales*) est vue 
+dans tous les milieux sociaux comme une lacune qu'il convient de combler. C'est dans
+la réponse à ce constat que les pratiques divergent.
+
+Au sein des familles plus bourgeoises, on observe des pratiques de soutien à la maison s'articulant autour
+de la méthode phonique synthétique stricte. Plusieurs explications possibles à ce phénomène:
+- Les familles plus bourgeoises sont généralement plus dotées en capital scolaire et tendent à 
+reproduire les pratiques scolaires auxquelles elles ont été exposées, ce qui inclut souvent la méthode
+phonique synthétique stricte.
+- Les familles bourgeoises sont plus critiques vis à vis de l'institution scolaire et sont plus enclines
+à considérer les lacunes de leurs enfants comme le produit d'une faillite de la méthode utilisée par cette institution.
+
+A contrario, les familles plus populaires ont une confiance plus importante en 
+l'institution et ses méthodes. Ce qui les pousse à reproduire les méthodes de l'école,
+et donc la méthode mixte. Et par ailleurs, elles disposent également moins de ressources
+(temporelles, financières, culturelles, etc) pour mettre en place ces pratiques de soutien à la maison. 
+
 
 ---
 ## Pour une pédagogie de l'enseignement intellectuel ?
