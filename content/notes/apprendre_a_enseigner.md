@@ -78,9 +78,9 @@ Explications récurrentes dans les médias et la littérature scientifique :
     - Bourdieu ne dit pas ça. C'est justement parce que l'école ne regarde pas les différence
     de capitaux que les différences naissent. Le système scolaire qui consacre ces inégalités par
     son indifférence à ces inégalités (voir : *Les héritiers*)
-- *Théorie du handicap-sous culturel*
+- *Théorie du handicap socio-culturel*
     - Cette théorie ne tient pas. Les difficultés en CP/CE1 (où le 
-    handicap sous-culturel ne fait pas sens) se prolongent tout au long 
+    handicap socio-culturel ne fait pas sens) se prolongent tout au long 
     du cursus. Les élèves ayant des difficultés à lire en CE1 forment un groupe 
     stable jusqu'à l'âge adulte.
 
