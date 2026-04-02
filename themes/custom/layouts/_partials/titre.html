@@ -1,0 +1,25 @@
+{{- $prefix := "" -}}
+{{- if eq .Section "livres" -}}
+    {{- $prefix = "📚 " -}}
+{{- else if eq .Section "maths" -}}
+    {{- $prefix = "♾️ " -}}
+{{- else if eq .Section "journals" -}}
+    {{- $prefix = "✍🏻 " -}}
+{{- else if eq .Section "series" -}}
+    {{- $prefix = "📺 " -}}
+{{- else if eq .Section "films" -}}
+    {{- $prefix = "🎬 " -}}
+{{- end -}}
+
+
+<span class="post-title-text">{{ $prefix }}{{ .LinkTitle }}</span>
+
+{{- if eq .Section "livres" -}}
+    {{- with .Params.book_authors -}}
+        <span class="post-author-separator"> — </span><span class="post-author-name">{{ delimit . ", " }}</span>
+    {{- end -}}
+{{- else if eq .Section "maths" -}}
+    {{- with .Params.exo_cours -}}
+        <span class="math-type" style="opacity: 0.6; font-size: 0.9em;"> ({{ . }})</span>
+    {{- end -}}
+{{- end -}}

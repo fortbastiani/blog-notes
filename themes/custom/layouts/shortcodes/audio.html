@@ -1,0 +1,72 @@
+<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+
+<div class="terminal-player-container">
+    <div class="audio-metadata">
+        <div class="track-title">{{ .Get "title" | default "Unknown Track" }}</div>
+        <div class="track-artist">{{ .Get "artist" | default "Unknown Artist" }}</div>
+    </div>
+
+    <div class="modern-player">
+        <audio id="player" controls>
+            <source src="{{ .Get "src" }}" type="audio/mp3" />
+        </audio>
+    </div>
+</div>
+
+<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+<script>
+  // On utilise un sélecteur plus large au cas où tu as plusieurs lecteurs
+  const player = new Plyr('#player');
+</script>
+
+<style>
+  :root {
+    --plyr-color-main: var(--color-text-muted, #00ff00);
+    
+    /* MODIFIER LA COULEUR DE FOND ICI */
+    /* Le thème Terminal utilise généralement #16171d ou #212121 */
+    --audio-bg-color: var(--background); 
+    --plyr-audio-controls-background: var(--background);
+    --plyr-audio-control-color: var(--foreground);
+  }
+
+  .terminal-player-container {
+    max-width: 350px;
+    background: var(--color-bg-secondary);
+    padding: var(--spacing-sm) var(--spacing-base);
+    border: 1px solid var(--color-border, #333);
+    border-radius: var(--pre-border-radius);
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px 0 var(--color-border);
+    font-family: monospace;
+  }
+
+  .audio-metadata {
+    margin-bottom: 12px;
+    border-left: 3px solid var(--color-text-muted, #00ff00);
+    padding-left: 10px;
+  }
+
+  .track-title {
+    color: var(--color-text-code, #00ff00);
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+  }
+
+  .track-artist {
+    color: var(--foreground);
+    font-size: 0.9rem;
+    margin-top: 2px;
+  }
+
+  .modern-player {
+    border-radius: 0; /* Garde un look angulaire terminal */
+  }
+
+  /* Force Plyr à utiliser notre fond */
+  .plyr--audio .plyr__controls {
+    background: transparent !important;
+  }
+</style>

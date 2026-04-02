@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:41673/notes/apprendre_%C3%A0_enseigner/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/conf%C3%A9rence/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/%C3%A9cole/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/ens/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/notes/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/scolaire/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/sociologie/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/tags/</loc>
+    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/</loc>
+    <lastmod>2026-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41673/categories/</loc>
+  </url>
+</urlset>
