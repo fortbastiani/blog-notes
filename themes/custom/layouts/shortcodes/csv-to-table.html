@@ -1,0 +1,60 @@
+{{ $file := .Get 0 }}
+{{ $colsParam := .Get 1 }}
+
+{{ if $file }}
+  {{ with $.Page.Resources.Get $file }}
+    {{ with $csv := . | transform.Unmarshal }}
+      
+      {{/* Récupération de la première ligne (les en-têtes) */}}
+      {{ $headerRow := index $csv 0 }}
+      
+      {{/* Détermination des index des colonnes à conserver */}}
+      {{ $colIndices := slice }}
+      {{ if $colsParam }}
+        {{ $reqCols := split $colsParam "," }}
+        {{ $reqColsClean := slice }}
+        {{ range $reqCols }}
+          {{ $reqColsClean = $reqColsClean | append (trim . " ") }}
+        {{ end }}
+        
+        {{ range $i, $h := $headerRow }}
+          {{ if in $reqColsClean (trim $h " ") }}
+            {{ $colIndices = $colIndices | append $i }}
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{/* Si aucun paramètre n'est passé, on garde toutes les colonnes */}}
+        {{ range $i, $h := $headerRow }}
+          {{ $colIndices = $colIndices | append $i }}
+        {{ end }}
+      {{ end }}
+
+      <table>
+        <thead>
+          <tr>
+            {{ range $i, $h := $headerRow }}
+              {{ if in $colIndices $i }}
+                <th>{{ $h }}</th>
+              {{ end }}
+            {{ end }}
+          </tr>
+        </thead>
+        <tbody>
+          {{ range after 1 $csv }}
+            <tr>
+              {{ range $i, $cell := . }}
+                {{ if in $colIndices $i }}
+                  <td>{{ $cell }}</td>
+                {{ end }}
+              {{ end }}
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s in the page bundle. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires at least one positional argument (the CSV file path). See %s" $.Name $.Position }}
+{{ end }}

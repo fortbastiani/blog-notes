@@ -2,33 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41673/notes/apprendre_%C3%A0_enseigner/</loc>
+    <loc>http://localhost:1313/pedagogie/</loc>
+    <lastmod>2026-04-15T18:08:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/capes/plan/</loc>
+    <lastmod>2026-04-10T14:43:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/capes/</loc>
+    <lastmod>2026-04-10T14:43:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/capes/</loc>
+    <lastmod>2026-04-10T14:43:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/maths/</loc>
+    <lastmod>2026-04-10T14:43:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-10T14:43:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/capes/methode_prepa_lecon/</loc>
+    <lastmod>2026-04-10T14:03:27+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/capes/ressources/</loc>
+    <lastmod>2026-04-10T14:03:27+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/apprendre_a_enseigner/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/conf%C3%A9rence/</loc>
+    <loc>http://localhost:1313/tags/conf%C3%A9rence/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/%C3%A9cole/</loc>
+    <loc>http://localhost:1313/tags/%C3%A9cole/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/ens/</loc>
+    <loc>http://localhost:1313/tags/ens/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/scolaire/</loc>
+    <loc>http://localhost:1313/tags/scolaire/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/sociologie/</loc>
+    <loc>http://localhost:1313/tags/sociologie/</loc>
     <lastmod>2026-04-01T18:05:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/tags/</loc>
-    <lastmod>2026-04-01T18:05:45+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41673/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41673/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

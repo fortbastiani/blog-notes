@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capes on blog-notes</title>
+    <link>http://localhost:1313/capes/</link>
+    <description>Recent content in Capes on blog-notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2026 14:43:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/capes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>♾️ Plan</title>
+      <link>http://localhost:1313/capes/plan/</link>
+      <pubDate>Fri, 10 Apr 2026 14:43:37 +0200</pubDate>
+      <guid>http://localhost:1313/capes/plan/</guid>
+      <description>&lt;p&gt;Ci-dessous des propositions (approximatives) de plans pour les épreuves de leçon et d&amp;rsquo;entretien&#xA;du CAPES de mathématiques. Le plan des leçons est à revoir et à adapter selon les regroupements&#xA;thématiques choisis. Voir &lt;a href=&#34;http://localhost:1313/capes/methode_prepa_lecon/&#34;&gt;ici&lt;/a&gt; pour un exemple de séance de préparation de leçon.&lt;/p&gt;&#xA;&lt;p&gt;Le plan de l&amp;rsquo;entretien est plus détaillé et semble cohérent avec les attentes de l&amp;rsquo;épreuve.&lt;/p&gt;&#xA;&lt;p&gt;Lien téléchargeable des calendriers (compatibles google calendar):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./lecon.csv&#34;&gt;Plan leçon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./calendrier_entretien.csv&#34;&gt;Plan entretien&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Aperçu du contenu des plans  :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>♾️ Methode préparation leçon</title>
+      <link>http://localhost:1313/capes/methode_prepa_lecon/</link>
+      <pubDate>Fri, 10 Apr 2026 14:03:27 +0200</pubDate>
+      <guid>http://localhost:1313/capes/methode_prepa_lecon/</guid>
+      <description>&lt;h1 id=&#34;structure-dune-séance-de-révision-dune-leçon--3h&#34;&gt;Structure d&amp;rsquo;une séance de révision d&amp;rsquo;une leçon (~ 3h)&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;format-3h&#34;&gt;Format 3h&lt;/h2&gt;&#xA;&lt;h3 id=&#34;répétition-espacée-15-min&#34;&gt;Répétition espacée (15 min)&lt;/h3&gt;&#xA;&lt;p&gt;Lire à voix haute les plans et les théorèmes des leçons préparées les jours précédents.&#xA;Revoir mentalement l&amp;rsquo;articulation de vos développements.&lt;/p&gt;&#xA;&lt;h3 id=&#34;cadrage-et-bibliographie-30-min&#34;&gt;Cadrage et Bibliographie (30 min)&lt;/h3&gt;&#xA;&lt;p&gt;Lire ce que disent les programmes officiels (Eduscol) sur cette notion pour délimiter le niveau attendu.&#xA;Ouvrir 2 ou 3 des manuels que vous aurez sélectionnés. Observer comment ils introduisent&#xA;la notion pour ne pas vous contenter de recopier un seul ouvrage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>♾️ Ressources</title>
+      <link>http://localhost:1313/capes/ressources/</link>
+      <pubDate>Fri, 10 Apr 2026 14:03:27 +0200</pubDate>
+      <guid>http://localhost:1313/capes/ressources/</guid>
+      <description>&lt;h1 id=&#34;eduscol-tout-niveaux&#34;&gt;&lt;a href=&#34;https://eduscol.education.gouv.fr/4332/niveaux&#34;&gt;Eduscol tout niveaux&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ressource-accompagnement-cycle-4-eduscol&#34;&gt;&lt;a href=&#34;https://eduscol.education.gouv.fr/5736/ressources-d-accompagnement-du-programme-de-mathematiques-au-cycle-4&#34;&gt;Ressource accompagnement cycle 4 (EDUSCOL)&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ressources-épreuve-leçon-&#34;&gt;Ressources épreuve leçon :&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./full_lecon_700p.pdf&#34;&gt;Pdf avec toutes les leçons&lt;/a&gt; (&lt;a href=&#34;https://capes-cbmaths.fr/les-lecons-a-loral-du-capes-de-mathematiques/&#34;&gt;source&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Résultat écrit :&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Publication ouverte à partir du mercredi 06 mai 2026 À 17H00 jusqu&amp;rsquo;au lundi 31 août 2026 À 23H59&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
