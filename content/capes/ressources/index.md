@@ -1,6 +1,6 @@
 +++
 date = '2026-04-10T14:03:27+02:00'
-draft = true
+draft = false
 title = '♾️ Ressources'
 tags = ['capes', 'maths']
 +++
