@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citations on blog-notes</title>
+    <link>http://localhost:3000/citations/</link>
+    <description>Recent content in Citations on blog-notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2026 11:21:29 +0200</lastBuildDate>
+    <atom:link href="http://localhost:3000/citations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand-Peur Et Misère Du IIIe Reich</title>
+      <link>http://localhost:3000/citations/grande-peur-et-mis%C3%A8re-du-iiie-reich/</link>
+      <pubDate>Sun, 03 May 2026 11:21:29 +0200</pubDate>
+      <guid>http://localhost:3000/citations/grande-peur-et-mis%C3%A8re-du-iiie-reich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Vie Extérieure</title>
+      <link>http://localhost:3000/citations/la-vie-ext%C3%A9rieure/</link>
+      <pubDate>Sun, 03 May 2026 10:52:16 +0200</pubDate>
+      <guid>http://localhost:3000/citations/la-vie-ext%C3%A9rieure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Une Femme</title>
+      <link>http://localhost:3000/citations/une-femme/</link>
+      <pubDate>Sun, 03 May 2026 10:40:32 +0200</pubDate>
+      <guid>http://localhost:3000/citations/une-femme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
