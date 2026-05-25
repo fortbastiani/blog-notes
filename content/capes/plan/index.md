@@ -4,6 +4,12 @@ draft = false
 title = '♾️ Plan'
 tags = ['capes', 'maths']
 +++
+---
+# STATUT
+- 23/44 leçons traitées
+- 21 leçons restantes
+- 26 jours avant l'oral
+---
 
 # Ordre de traitement des groupes
 1. Groupe I : Analyse (13 leçons) 
@@ -17,24 +23,24 @@ tags = ['capes', 'maths']
     - [x] 32
     - [x] 33
     - [x] 34
-    - [ ] 35
-    - [ ] 36
-    - [ ] 37
-    - [ ] 38
+    - [x] 35
+    - [x] 36
+    - [x] 37
+    - [x] 38
 2. Groupe C : Nombres complexes, trigonométrie (3 leçons) 
     - 14/05/2026 -> 16/05/2026
-    - [ ] 9
-    - [ ] 10
-    - [ ] 11
+    - [x] 9
+    - [x] 10
+    - [x] 11
 3. Groupe D : Géométrie (12 leçons) 
     - 18/05/2026 -> 24/05/2026
-    - [ ] 12
-    - [ ] 13
-    - [ ] 22
-    - [ ] 15
-    - [ ] 21
-    - [ ] 16
-    - [ ] 17
+    - [x] 12
+    - [x] 13
+    - [x] 22
+    - [x] 15
+    - [x] 21
+    - [x] 16
+    - [x] 17
     - [ ] 19
     - [ ] 18
     - [ ] 20
