@@ -1,0 +1,53 @@
++++
+date = '2026-05-25T16:34:24+02:00'
+draft = false
+title = 'A quoi bon encore apprendre ?'
+tags = ["livre", "citation"]
+book_authors = ["Camille Dejardin"]
+book_publish_date = '28/08/2025'
+book_type = 'Essai'
+summary = ' '
++++
+
+# À quoi bon encore apprendre ?
+
+> On peut ainsi appeler connaissance un contenu de savoir conforme à la réalité et maîtrisé par un sujet. Soulignons d'abord sa teneur épistémique: affirmer quelque chose que l'on tient pour vrai, en ayant comparé les représentations avec leur objet. L'estimation de la correspondance restera bien sûr imparfaite, comme nous l'a appris Kant, mais on peut multiplier les subjectivités et les protocoles pour limiter les biais personnels et viser une forme d'objectivité qui serait une subjectivité universelle. C'est là le cœur de toute démarche scientifique.
+P15
+
+> Soyons conscients que l’esprit critique est inhiber quand ils ne s’encre dans aucune maîtrise des moyens de production de la connaissance
+P. 17.
+
+> La question n’est pas seulement de quantité, ni même de progressivité, encore moins de simples répétitions : c’est une question de mise en ordre. Celle-ci pose du temps pour la mise en forme, la résistance à l’oubli, la réactivation régulière des contextes d’identification, d’attention et de production de sens. Mais elle requière aussi, et surtout de la méthode : tout le contraire d’un soudage de « contenu », dans une course au « programme », toujours perdu d’avance, d’une révision de la veille ou de la confiance, aveugle dans le résultat généré en 1/10 de seconde par ChatGPT.
+P. 18.
+
+
+> Comme même la vérité, serait une idole déboulonnée, il n’y a aucune raison de se démobiliser : puisqu’il n’y a pas de vie, sans travail interprétatif, la quête de vérité, déniaiser, devient exigence de sens, un sens qu’on ne doit laisser personne forger à notre place. C’est ainsi qu’à acquérir des connaissances et enrichir notre représentation du monde nous rend plus libre.
+P. 18.
+
+
+> Mais se sentir libre, tout en étant esclave, peut revêtir le sens, exactement contraire : l’esprit peut être contraint, sans que le corps le ressent, libre qu’il est ne se mouvoir et de se réjouir. C’est l’aliénation, phénomène bien plus insidieux que l’exploitation ou l’enfermement entre parenthèses et par la plus discutable. Où sont psychologiques ou sociologie et non psychiatrique, le terme désigne la contrainte extérioriser, avec l’apparence de la liberté, au profit d’un autre (aliénés), de manière illégitime. Et cette autre n’est pas nécessairement une personne : c’est peut-être un système, une configuration sociale, y compris, gratifiante au premier abord. Souvent, nous sommes aliénés–par définition à notre insu–par des rouages sociaux et représentation Nelle, dont nous sommes dépendants, et qui nous apporte un certain confort, confort que le remise en question, compromettre du même coup. […] La dépendance peut être acceptée au terme d’un calcul d’intérêt. Cela étant elle l’ est le plus souvent par ignorance. Plus on ignore, moins se questionne et mieux. On accepte ce qui relève d’un choix, mais nous est présenté comme une nécessité. Et le piège est d’autant plus redoutable que l’ignorance. Non seulement se contente volontiers de l’heure, mais donne même une impression d’assurance. C’est « l’effet Dunning-Kruger »: moi on sait, moi, on doute du peu que l’on sait, et moi, on se doute de l’étendue de ce qui nous échappe. L’ignorance est ainsi le terreau du dogmatisme et de l’arrogance. La compétence au contraire, des voiles immensité, de ce qu’on ignore et sa campagne, plus spontanément, du doute, de la modestie et de la prudence.
+P. 22.
+
+> Or, pour que notre fort intérieur, soit un espace de liberté, il faut que notre représentation soit assez riche pour accéder à la contrainte, que l’immédiat exercice sur nos pensées, nous empêchant de prendre du recul vis-à-vis du donné.
+P. 23. 
+
+
+> Le système requiert de détruire toute attachement à des facteurs de préférence object stable ( dont on puisse rendre raison), comme l’utilité, la durabilité, la polyvalence ou l’opportunité, sans même parler d’esthétique. Nich déplorer déjà le syncrétisme fin de siècle, ou le japonisme, côtoyé l’anglomanie, le néogothique, l’académisme, le tout sur fond de sécularisation, de l’accélération des flux. Pour lui c’est juxtaposition culture, elle est surtout la rapidité des changements, empêchant toute « incorporation », était contraire, hostile, à savoir l’organisation des goûts par une hiérarchie sélective.
+P.28.
+
+
+> Si les idées, goût aux convictions, ne sont pas censés changer fréquemment, le thon, le tac, la distance doivent s’ajuster à chaque situation nouvelle. Ignorer ou nier c’est plus réalité, c’est condamné à une attitude déplacée, voir se comporter en Sociopath.
+P.30.
+
+> Apprendre favorise le sentiment d’être acteur de sa vie au lieu de la subir. Un individu individué gagne ainsi un agir propre, une façon d’exercer son jugement de manière inimaginable et de mieux actualiser ce dont il est (devenu) capable. Or, cela procure un certain sentiment de pouvoir non dans sa forme étriqué du pouvoir sur les autres êtres humains, mais du pouvoir en général, celui de concrétiser nos désirs. On pourra ainsi parler de puissance.
+P.35.
+
+> Prendre conscience de sa puissance comme possible, effectivité sur les choses, autrement dit, se sentir cause, et l’un des premiers plaisirs de l’être humain et un moteur essentiel de l’apprentissage, puisqu’il en est à la fois l’impulsion et la récompense.
+P. 36.
+
+> La réflexivité peut être vu comme le moyen de vivre pour ainsi dire deux fois, ou du moins de ne pas vivre à moitié.
+P. 39.
+
+> La seule manière de gagner en confiance en soi, et donc de gagner en compétences, ainsi qu’en l’occasion de prouver celle-ci : en un mot, apprendre, mais vis-à-vis d’une exigence qui s’assume comme tel, qui assume sa difficulté – un mot auquel on substitue de nos jours, mal, à propos, celui de complexité, qui eclipses la notion d’effort. La baisse de niveau n’engendrera jamais que de la perte de confiance en soi, et abaisser encore de niveau pour consoler immédiatement les égaux alimente le mal à long terme. On le voit, le mépris ou la condescendance n’est pas chez les conteur de cette situation, mais chez ceux qui en minimise la gravité pour mieux abandonner les individus à leur sort. En tout état de cause, il est temps d’en finir avec le cliché de l’imbecile heureux, ou du moins de l’ignorant heureux.
+
+> La finitude de notre condition incarnée n’est pas une limite préjudiciable, mais la condition de notre créativité
