@@ -6,9 +6,9 @@ tags = ['capes', 'maths']
 +++
 ---
 # STATUT
-- 23/44 leçons traitées
-- 21 leçons restantes
-- 26 jours avant l'oral
+- 29/44 leçons traitées
+- 15 leçons restantes
+- 21 jours avant l'oral
 ---
 
 # Ordre de traitement des groupes
@@ -41,7 +41,7 @@ tags = ['capes', 'maths']
     - [x] 21
     - [x] 16
     - [x] 17
-    - [ ] 19
+    - [x] 19
     - [ ] 18
     - [ ] 20
     - [ ] 23
@@ -54,11 +54,11 @@ tags = ['capes', 'maths']
     - [ ] 25
 6. Groupe A : Dénombrement, probabilités, statistiques (5 leçon)
     - 26/05/2026 -> 28/05/2026
-    - [ ] 2
-    - [ ] 3
-    - [ ] 1
-    - [ ] 4
-    - [ ] 5
+    - [x] 2
+    - [x] 3
+    - [x] 1
+    - [x] 4
+    - [x] 5
 7. Groupe J : Thèmes transversaux (4 leçons)
     - 29/05/2026 -> 30/05/2026
     - [ ] 41
