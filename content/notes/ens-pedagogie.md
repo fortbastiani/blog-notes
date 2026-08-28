@@ -76,7 +76,8 @@ Points importants :
             - des exos pour avancer
             - en autnomie
             - exercices défis
-    - Les plus lents: ils ont 20min, on corrige les exos auxquelles ils sont exposés, on ne cherche pas à en faire + avec tout le monde.
+    - Les plus lents: ils ont 20min, on corrige les exos auxquelles ils sont exposés, on ne cherche pas à en faire + 
+    avec tout le monde.
 
 
 ### Attention partagée

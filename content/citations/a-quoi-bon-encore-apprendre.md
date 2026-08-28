@@ -1,6 +1,6 @@
 +++
 date = '2026-05-25T16:34:24+02:00'
-draft = false
+draft = true
 title = 'A quoi bon encore apprendre ?'
 tags = ["livre", "citation"]
 book_authors = ["Camille Dejardin"]

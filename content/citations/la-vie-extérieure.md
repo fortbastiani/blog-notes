@@ -1,6 +1,6 @@
 +++
 date = '2026-05-03T10:52:16+02:00'
-draft = false
+draft = true
 title = 'La Vie Extérieure'
 tags = ["livre", "citation"]
 book_authors = []

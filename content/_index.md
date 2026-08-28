@@ -11,8 +11,6 @@ objectifs :
 - Rendre disponible à tout moment un annuaire de citation
 
 Voici les liens importants:
-- [CAPES Math](capes)
-- [Citations](citations)
 - [Notes](notes)
 
 Ci-dessous vous trouverez la liste de l'ensemble des posts par ordre de publication

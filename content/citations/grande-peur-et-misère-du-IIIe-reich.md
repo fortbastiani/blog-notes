@@ -1,6 +1,6 @@
 +++
 date = '2026-05-03T11:21:29+02:00'
-draft = false
+draft = true
 title = 'Grand-Peur Et Misère Du IIIe Reich'
 tags = ["livre", "citation"]
 book_authors = []
